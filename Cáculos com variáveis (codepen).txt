@@ -1,0 +1,31 @@
+html:
+<h1>Cálculos com variáveis</h1>
+
+CSS:
+body{
+  background-color: black;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+h1{
+    color: white;
+  }
+
+JS:
+var doisMaisDois = 2 + 2;
+//alert(doisMaisDois);
+
+var doisMenosUm = 2 - 1;
+//alert(doisMenosUm);
+
+var trêsVezesTrês = 3 * 3;
+//alert(trêsVezesTrês);
+
+var doisDivDois = 2 / 2;
+//alert(doisDivDois);
+
+var doisPotTrês = Math.pow (2, 3);
+//alert(doisPotTrês);
+
+var raizNove = Math.sqrt (9);
+//alert(raizNove)
